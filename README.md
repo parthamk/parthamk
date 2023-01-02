@@ -1,8 +1,12 @@
 
 
 ### Welcome to my GitHub Profile  
-<div align="center" style="width:30% type="video/mp4">  
-https://user-images.githubusercontent.com/110169184/210232961-a416dd8b-f8ba-4994-bac4-28df727366a8.mp4
+<div align="center">  
+
+
+https://user-images.githubusercontent.com/110169184/210233753-6765531f-975c-4598-89de-62c8f66f26f1.mp4
+
+
 </div>  
   
 
