@@ -1,8 +1,8 @@
 
 
 ### Welcome to my GitHub Profile  
-<div align="center">  
-<source src="https://user-images.githubusercontent.com/110169184/210232961-a416dd8b-f8ba-4994-bac4-28df727366a8.mp4" align="center" style="width:30% type="video/mp4">
+<div align="center" style="width:30% type="video/mp4">  
+https://user-images.githubusercontent.com/110169184/210232961-a416dd8b-f8ba-4994-bac4-28df727366a8.mp4
 </div>  
   
 
