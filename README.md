@@ -2,11 +2,7 @@
 
 ### Welcome to my GitHub Profile  
 <div align="center">  
-
-
-https://user-images.githubusercontent.com/110169184/210233753-6765531f-975c-4598-89de-62c8f66f26f1.mp4
-
-
+<img src="https://user-images.githubusercontent.com/110169184/210234145-d499f554-ce4d-401f-9ad6-cde8ea21313f.gif" align="center" style="width: 30%" />
 </div>  
   
 
