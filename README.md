@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Partha, a full-time full-stack developer 👨‍💻 doing Intern in Newton School (April'22 batch)🚀</div>  
+### <div align="center">I'm Partha, pursuing full-stack developer 👨‍💻 Intern from Newton School (April'22 batch)🚀</div>  
   
 
 
