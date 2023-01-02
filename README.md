@@ -2,10 +2,7 @@
 
 ### Welcome to my GitHub Profile  
 <div align="center">  
-<video controls loop>
-  <source src="[movie.mp4](https://user-images.githubusercontent.com/110169184/210232961-a416dd8b-f8ba-4994-bac4-28df727366a8.mp4)" type="video/mp4" align="center" style="width: 30%" >
-  Frontend Developer | Ready to hire
-</video>
+https://user-images.githubusercontent.com/110169184/210232961-a416dd8b-f8ba-4994-bac4-28df727366a8.mp4)" type="video/mp4" align="center" style="width:30% 
 </div>  
   
 
