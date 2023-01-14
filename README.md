@@ -91,9 +91,7 @@
 
 
 ## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthamk&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=parthamk&theme=tokyonight_duo&border_radius=4.4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>  
   
