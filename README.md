@@ -91,8 +91,9 @@
 
 
 ## Github Stats  
+<div align="center">
 [![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthamk)](https://github.com/parthamk)
-
+</div>
 
 <br/>  
   
