@@ -9,7 +9,7 @@
 - I’m currently working on a [Portfolio Project](https://github.com/parthamk/portfolio-demo)  
 
 
-- - I’m on [LinkFree](https://linkfree.eddiehub.io/parthamk) follow me. To know kore [Visit here](https://github.com/EddieHubCommunity/LinkFree) 😁👍  
+- I’m on [LinkFree](https://linkfree.eddiehub.io/parthamk) follow me. To know kore [Visit here](https://github.com/EddieHubCommunity/LinkFree) 😁👍  
   
 
 - 🌱 I’m currently learning React and Redux  
