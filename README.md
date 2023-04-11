@@ -93,10 +93,11 @@
   
 
 <br/>  
+<div align="center">
 
+<q>Be restless, seek growth, embrace change, and never settle for anything less than you deserve.</q>
 
-`Be restless, seek growth, embrace change, and never settle for anything less than you deserve.`
-
+</div>
 
 <br/>  
 
