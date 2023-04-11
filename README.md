@@ -6,7 +6,7 @@
 ### <div align="center">I'm Partha, pursuing full-stack developer 👨‍💻 Intern from Newton School (April'22 batch)🚀</div>  
   
 
-- I’m currently working on a [Portfolio Project](https://github.com/parthamk/portfolio-demo)  
+- I’m currently working on a [Full-Stack E-commarce website](https://github.com/parthamk)  
 
 
 - I’m on [LinkFree](https://linkfree.eddiehub.io/parthamk) follow me. To know kore [Visit here](https://github.com/EddieHubCommunity/LinkFree) 😁👍  
