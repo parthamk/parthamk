@@ -90,7 +90,9 @@
 
 <br/>  
 
-<div align="center"><img src="https://open.spotify.com/user/070uk8e4sit5pvaknuuq227vf?si=0d4b711afab14472" /></div>  
+<div align="center">
+> "Be restless, seek growth, embrace change, and never settle for anything less than you deserve."
+</div>  
 
 <br/>  
 
