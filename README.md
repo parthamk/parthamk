@@ -91,7 +91,7 @@
 <br/>  
 
 <div align="center">
->"Be restless, seek growth, embrace change, and never settle for anything less than you deserve."
+> ## "Be restless, seek growth, embrace change, and never settle for anything less than you deserve."
 </div>  
 
 <br/>  
