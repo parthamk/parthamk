@@ -89,7 +89,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## My favorite quote  
   
 
 <br/>  
