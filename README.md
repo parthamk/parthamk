@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/110169184/210234145-d499f554-ce4d-401f-9ad6-cde8ea21313f.gif" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://github.com/parthamk/parthamk/assets/110169184/900098f1-ff77-444a-bc24-037eaffa9cdf" align="center" style="width: 100%" />
+</div>
+
 
 ### <div align="center">I'm Partha, pursuing full-stack developer 👨‍💻 Intern from Newton School (April'22 batch)🚀</div>  
   
