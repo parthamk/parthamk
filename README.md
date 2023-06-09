@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/parthamk/parthamk/assets/110169184/900098f1-ff77-444a-bc24-037eaffa9cdf" align="center" style="width: 100%" />
+<img src="https://github.com/parthamk/parthamk/assets/110169184/900098f1-ff77-444a-bc24-037eaffa9cdf" align="center" style="width: 50%" />
 </div>
 
 
