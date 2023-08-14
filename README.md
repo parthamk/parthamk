@@ -3,7 +3,7 @@
 </div>
 
 
-### <div align="center">I'm Partha, pursuing full-stack developer 👨‍💻 Intern from Newton School (April'22 batch)🚀</div>  
+### <div align="center">I'm Partha, pursuing 👨‍💻Full-Stack Web Development course 🚀</div>  
   
 
 - I’m currently working on a [Full-Stack E-commarce website](https://github.com/parthamk)  
