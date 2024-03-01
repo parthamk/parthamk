@@ -46,11 +46,11 @@
 <td valign="top" width="50%">
 
 ### Backend  
-<div align="center">    
-<a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<div align="center" style="background: white">    
+<a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/376367/express.svg" alt="Express.js" height="50" /></a>  
 </div>
 
 
