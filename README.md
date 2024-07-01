@@ -7,12 +7,9 @@
   
 
 - I’m currently working on a [Full-Stack E-commarce website](https://github.com/parthamk)  
-
-
-[//]: # (I’m on [LinkFree](https://linkfree.eddiehub.io/parthamk) follow me. To know kore [Visit here](https://github.com/EddieHubCommunity/LinkFree) 😁👍  )
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning PostgreSQL  
   
 
 - ❓  Ask me about anything related to Full stack and related technologies  
