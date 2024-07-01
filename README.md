@@ -3,7 +3,7 @@
 </div>
 
 
-### <div align="center">I'm Partha, pursuing 👨‍💻Full-Stack Web Development course 🚀</div>  
+### <div align="center">I'm Partha, completed 👨‍💻Full-Stack Web Development course. 🚀 Interested in any opensource and frelance project</div>  
   
 
 - I’m currently working on a [Full-Stack E-commarce website](https://github.com/parthamk)  
