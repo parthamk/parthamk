@@ -15,7 +15,9 @@
 - ❓  Ask me about anything related to Full stack and related technologies  
   
 
-- ⚡ Fun fact: I am a newbee and learning all the possibilities in coding.  
+- ⚡ Fun fact: I am a newbee and learning all the possibilities in coding.
+
+-  😎 Maintaining Npm package (notification-badge)[https://www.npmjs.com/package/@parthamk/notification-badge] *<former react-notification-badge>
   
 
 <br/>  
