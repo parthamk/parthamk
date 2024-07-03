@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<table><tr><td valign="top" width="50%">
+<table style="color: white"><tr><td valign="top" width="50%">
 
 
 
@@ -45,7 +45,7 @@
 <td valign="top" width="50%">
 
 ### Backend  
-<div align="center" style="color: white">    
+<div align="center">    
 <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="MongoDB" height="50" /></a>  
