@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: I am a newbee and learning all the possibilities in coding.
 
--  😎 Maintaining Npm package (notification-badge)[https://www.npmjs.com/package/@parthamk/notification-badge] *<former react-notification-badge>
+-  😎 Maintaining Npm package [notification-badge](https://www.npmjs.com/package/@parthamk/notification-badge) *[[former react-notification-badge]]
   
 
 <br/>  
