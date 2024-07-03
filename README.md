@@ -25,7 +25,7 @@
 
 ## My Skill Set
 
-<div align="center">
+<div align="center" width="50%">
 
 | Frontend      | Backend      |
 | ------------- | ------------- |
