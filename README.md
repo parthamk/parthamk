@@ -50,6 +50,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/376367/express.svg" alt="Express.js" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" alt="NextJs" height="50" /></a> 
 </div>
 
 
