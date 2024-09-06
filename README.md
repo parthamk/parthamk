@@ -6,7 +6,7 @@
 ### <div align="center">I'm Partha, completed 👨‍💻Full-Stack Web Development course. 🚀 Interested in any opensource & freelance project</div>
   
 
-- I’m currently working on Blockchain Project [Meme Coin $BAIGAN]([https://github.com/parthamk](https://www.baigancoin.lol/))  
+- I’m currently working on Blockchain Project [Meme Coin $BAIGAN](https://www.baigancoin.lol/)
   
 
 - 🌱 I’m currently learning Supabase  
