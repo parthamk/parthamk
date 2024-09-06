@@ -6,10 +6,10 @@
 ### <div align="center">I'm Partha, completed 👨‍💻Full-Stack Web Development course. 🚀 Interested in any opensource & freelance project</div>
   
 
-- I’m currently working on a [Full-Stack E-commarce website](https://github.com/parthamk)  
+- I’m currently working on Blockchain Project [Meme Coin $BAIGAN]([https://github.com/parthamk](https://www.baigancoin.lol/))  
   
 
-- 🌱 I’m currently learning PostgreSQL  
+- 🌱 I’m currently learning Supabase  
   
 
 - ❓  Ask me about anything related to Full stack and related technologies  
