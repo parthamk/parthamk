@@ -56,12 +56,11 @@
   
 
 <br/>  
-
-
+<a href="https://roadmap.sh" align="center"><img src="https://roadmap.sh/card/tall/66e4be1bf34c8868ec19efcc?variant=dark" alt="roadmap.sh" align="center"/></a>
+<br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=parthamk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66e4be1bf34c8868ec19efcc?variant=dark" alt="roadmap.sh"/></a>
 <br/>  
 
 
