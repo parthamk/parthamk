@@ -57,16 +57,11 @@
 
 <br/>  
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66e4be1bf34c8868ec19efcc?variant=dark)](https://roadmap.sh)
-
-
-<br/>  
-
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=parthamk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+[![roadmap.sh](https://roadmap.sh/card/tall/66e4be1bf34c8868ec19efcc?variant=dark)](https://roadmap.sh)
 <br/>  
 
 
