@@ -4,7 +4,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/parthamk" target="_blank">
@@ -40,6 +39,67 @@
 
 
 ## My Skill Set
+
+html = """
+
+<div align="center" width="50%">
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color:#f0f0f0; padding:10px">Frontend</th>
+      <th style="background-color:#f0f0f0; padding:10px">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color:#f9f9f9; padding:10px">
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" width="200" /></a>
+      </td>
+      <td style="background-color:#f9f9f9; padding:10px">
+        <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" height="50" width="200"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:#e6e6e6; padding:10px">
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" width="200"/></a>
+      </td>
+      <td style="background-color:#e6e6e6; padding:10px">
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="Node.js" height="50" width="200"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:#f9f9f9; padding:10px">
+        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" width="200"/></a> 
+        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+      </td>
+      <td style="background-color:#f9f9f9; padding:10px">
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="MongoDB" height="50" width="200"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:#e6e6e6; padding:10px">
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" width="200"/></a>
+      </td>
+      <td style="background-color:#e6e6e6; padding:10px">
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/376367/express.svg" alt="Express.js" height="50" width="200"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:#f9f9f9; padding:10px">
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" width="200"/></a>
+      </td>
+      <td style="background-color:#f9f9f9; padding:10px">
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 5px" src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" alt="NextJs" height="50" width="200"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+"""
 
 <div align="center" width="50%">
 
