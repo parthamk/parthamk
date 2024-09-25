@@ -40,7 +40,6 @@
 
 ## My Skill Set
 
-html = """
 
 <div align="center" width="50%">
 
@@ -99,15 +98,6 @@ html = """
 </div>
 
 
-"""
-
-return_results({
-    'ContentsFormat': EntryFormat.HTML,
-    'Type': EntryType.NOTE,
-    'Contents': html
-})
-
-  
 
 <br/>  
 
