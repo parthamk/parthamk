@@ -103,7 +103,7 @@
 
 ## Follow My Daily Learning Roadmap
 
-[<a href="https://roadmap.sh" align="center"><img src="https://roadmap.sh/card/tall/66e4be1bf34c8868ec19efcc?variant=dark" alt="roadmap.sh" align="center"/></a>](https://roadmap.sh/u/partha)
+[![roadmap.sh](https://roadmap.sh/card/tall/66e4be1bf34c8868ec19efcc?variant=dark)](https://roadmap.sh)
 
 
 <br/>  
