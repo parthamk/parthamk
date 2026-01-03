@@ -21,7 +21,7 @@
 ### <div align="center">I'm Partha, completed 👨‍💻Full-Stack Web Development course. 🚀 Interested in any opensource & freelance project</div>
   
 
-- I’m currently working on Blockchain Project [Meme Coin $BAIGAN](https://www.baigancoin.lol/)
+- I’m currently building my workspace CODEWEEZ [CodeWeez.in](https://www.codeweez.in/)
   
 
 - 🌱 I’m currently learning Supabase  
