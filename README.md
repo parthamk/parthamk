@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/impartha/" target="_blank">
-  <img src="https://img.shields.io/badge/impartha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn @impartha" />
+  <img src="https://img.shields.io/badge/LinkedIn-%40impartha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn @impartha" />
 </a>
 </div>  
 
