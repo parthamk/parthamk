@@ -4,20 +4,23 @@
 
 <br/>  
 
-## Connect with me  
+## Connect with me
+
 <div align="center">
+
 <a href="https://github.com/parthamk" target="_blank">
   <img src="https://img.shields.io/badge/parthamk-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @parthamk" />
 </a>
-  
+
 <a href="https://x.com/KounteyaPartha" target="_blank">
-  <img src="https://img.shields.io/badge/KounteyaPartha-000000?style=for-the-badg&logo=X&logoColor=white" alt="KounteyaPartha" />
+  <img src="https://img.shields.io/badge/KounteyaPartha-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @KounteyaPartha" />
 </a>
 
 <a href="https://www.linkedin.com/in/impartha/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%40impartha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn @impartha" />
+  <img src="https://img.shields.io/badge/Linkedin%40%@impartha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn @impartha" />
 </a>
-</div>  
+
+</div>
 
 
 ### <div align="center">I'm Partha, completed 👨‍💻Full-Stack Web Development course. 🚀 Interested in any opensource & freelance project</div>
